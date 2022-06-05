@@ -307,13 +307,13 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 
 
-#EXTINF:-1 group-title="Kids",ANIME ALL DAY
+#EXTINF:-1 tvg-logo="" group-title="Kids",ANIME ALL DAY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Kids",NARUTO
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/aruto-title-naruto-logo-115628961389dsl2anitl.png" group-title="Kids",NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Kids",ONE PIECE
+#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/240-2400934_one-piece-logo-design-hd-png-download.png" group-title="Kids",ONE PIECE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
