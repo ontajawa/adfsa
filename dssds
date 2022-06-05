@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+
+
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-country="ID-JT;ID-YO" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Undefined",ADiTV (720p) [Not 24/7]
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="AFBTV.id" tvg-country="ID-NT" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/stxMPHv.png" group-title="General",AFB TV (576p)
