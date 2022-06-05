@@ -612,6 +612,93 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1  tvg-id="ext" group-title="Entertainment" tvg-logo="https://s317consulting.com/wp-content/uploads/bfi_thumb/rtp-2xnm99evu047dam356rmq860uflkbw03jb8xb44cn1cfc1xzc.png",RTP
 http://rr2.dens.tv/s/s38/01.m3u8
 
+###############BEINSPORT YACINE#############
+
+#EXTINF:-1 group-title="YACINE TV"
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/58839
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 1 Back Up
+http://gplus.live:8080/168573780756/N9UFR0P64W/103068
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/58840
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 2 Back Up
+http://gplus.live:8080/168573780756/N9UFR0P64W/103069
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/58841
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 3 Back Up
+http://gplus.live:8080/168573780756/N9UFR0P64W/103070
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/58829
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103062
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/58832
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/58834
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 4
+http://gplus.live:8080/168573780756/N9UFR0P64W/58835
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 5
+http://gplus.live:8080/168573780756/N9UFR0P64W/58836
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 6
+http://gplus.live:8080/168573780756/N9UFR0P64W/58837
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 7
+http://gplus.live:8080/168573780756/N9UFR0P64W/58838
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 7
+http://gplus.live:8080/168573780756/N9UFR0P64W/103067
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports FR 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103126
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports FR 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103127
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports FR 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/103128
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports ENG 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103123
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports ENG 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103124
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports ENG 3
+http://gplus.live:8080/168573780756/N9UFR0P64W/103125
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports EXTRA 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/103102
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports EXTRA 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/103103
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports AFC
+http://gplus.live:8080/168573780756/N9UFR0P64W/171694
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports AFC 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/171695
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports AFC 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/171696
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports NBA
+http://gplus.live:8080/168573780756/N9UFR0P64W/59382
+
+
 ~~~~~~~SPORT~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~SPORT~~~~~
 
 
@@ -923,47 +1010,24 @@ http://iptv.prosto.tv:7000/ch128/video.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AiSGzIC.png",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/vevo.png",Vevo HipHop
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-
-
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-
-
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/mtvblockparty.png",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://rubbyguntara.github.io/src/img/mtvbiggestpop.png",MTV Biggest POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",Box Music
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
-
-
-
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/0yRKskF7/MUSIC-INDIA.png" group-title="Music",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
