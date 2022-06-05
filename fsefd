@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+
 
 ~~~~~~~NASIONAL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~NASIONAL~~~~~~
 
@@ -966,7 +966,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Muslim Tv",AL Sunnah Nabawi
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
 
-#EXTINF:-1 tvg-id="" status="online" group-title="Muslim Tv",Alwafa Tarim TV
+#EXTINF:-1 tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" status="online" group-title="Muslim Tv",Alwafa Tarim TV
 https://v2.siar.us/ammedia/720/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
