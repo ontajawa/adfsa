@@ -457,6 +457,9 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 ~~~~~KNOWLEDGE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~KNOWLEDGE~~~~~~~~~~~
 
+#EXTINF:0 tvg-id="blueantextreme" tvg-name="blueantextreme" group-title="Knowledge" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Extreme.png",Rock Extreme
+http://rr1.dens.tv/h/h15/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="HistoryAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/history.png" group-title="Knowledge",History
@@ -658,11 +661,6 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://i.imgur.com/rDncFFu.png" group-title="Entertainment", ROCK Entertainmet
 http://rr1.dens.tv/h/h16/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://i.imgur.com/FiVtTfA.png" group-title="Entertainment", ROCK Extreme
-https://nonton.site:8443/Thopani/Haidir/811
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
