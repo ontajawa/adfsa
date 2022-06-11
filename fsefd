@@ -426,11 +426,11 @@ https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",DISNEY
+http://168.232.168.242:8001/play/a04q/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJunior.MACAN" tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png"" group-title="Kids",DISNEY JUNIOR 
-#http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/23
-#http://iptvtree.net:8080/Ainamanja/6a4fef36/264457
-#http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
-http://103.153.39.36:8000/play/a020
+http://168.232.168.242:8001/play/a01k/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
