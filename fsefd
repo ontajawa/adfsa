@@ -1117,8 +1117,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m
 #EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png", MTV Rocks
+#EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png", MTV Hits
 http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15281.ts
+
+#EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png", MTV Rocks
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/177396?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",Box Music
 #EXTVLCOPT:http-user-agent="BearTV"
