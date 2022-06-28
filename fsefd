@@ -1480,5 +1480,5 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20
 #EXTINF:1 group-title="Japan", Nittere News 24	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan", AT-X
+#EXTINF:1 group-title="Japan" tvg-logo="https://en.wikipedia.org/wiki/AT-X_%28TV_network%29#/media/File:AT-X_logo.svg", AT-X
 https://list.iptvcat.com/my_list/s/701eca05f81082b789be1cbc0306632f.m3u8
