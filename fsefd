@@ -927,6 +927,16 @@ http://tvbross.com:8090/DG3ukFij0z/1h9KEREA0T/17963
 #EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 1" tvg-logo="" group-title="SPORTS",BR: PREMIER 1
 http://tvbross.com:8090/DG3ukFij0z/1h9KEREA0T/17962
 
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/296455?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 4
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGaInzgzxdfqKtZ7mHDW8tU/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 4 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/296454?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 5
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMkdFqWKvchcp_2ZENl_gss/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 6
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFxrrAAyHsNl32LQDcmHrD8/ts?checkedby:iptvcat.com
+
 ~~~~~~~~HBO
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
