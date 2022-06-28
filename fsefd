@@ -921,6 +921,12 @@ https://bit.ly/3O4uBZV
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Useeprime.png" group-title="SPORTS",UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 2" tvg-logo="" group-title="SPORTS",BR: PREMIER 2
+http://tvbross.com:8090/DG3ukFij0z/1h9KEREA0T/17963
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 1" tvg-logo="" group-title="SPORTS",BR: PREMIER 1
+http://tvbross.com:8090/DG3ukFij0z/1h9KEREA0T/17962
+
 ~~~~~~~~HBO
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
