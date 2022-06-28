@@ -862,7 +862,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://4flims.com/upload/source/dubaisports1نسخ.png" group-title="SPORTS",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 group-title="SPORTS tvg-logo="https://i.imgur.com/1pYH86k.png", FIGHTBOX
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHTBOX" group-title="SPORTS tvg-logo="https://i.imgur.com/1pYH86k.png", FIGHTBOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7NeBmWX.jpg", Red Bull TV
@@ -1344,14 +1344,15 @@ https://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
-#EXTINF:-1 tvg-name="TBS Ⓢ" tvg-logo="https://i.imgur.com/SzWJscr.png" group-title="Japan",TBS Ⓢ
+#EXTINF:-1 tvg-name="TBS Ⓢ" tvg-logo="https://i.imgur.com/SzWJscr.png" group-title="Japan",TBS Ⓢ(coid)
 https://cdn.us195.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" group-title="Japan",TV Tokyo
+#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" group-title="Japan",TV Tokyo (coid)
 https://cdn.us195.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="Japan",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+
 #EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="Japan",Tokyo MX2
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
@@ -1364,120 +1365,119 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-name="QVC Ⓢ" tvg-logo="https://i.imgur.com/B74hZKd.png" group-title="Japan",QVC Ⓢ
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
-#EXTINF:-1 tvg-id="JOTXDTV.jp" status="online" tvh-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/512px-Tv_osaka_logo.svg.png" group-title="Japan",TV Osaka
+#EXTINF:-1 tvg-id="JOTXDTV.jp" status="online" tvh-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/512px-Tv_osaka_logo.svg.png" group-title="Japan",TV Osaka (coid)
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_osaka_540/playlist.m3u8
 
-#EXTINF:1 group-title="Japan", NHK BS1
+#EXTINF:1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png/512px-NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", NHK BS Premium	
+#EXTINF:1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png/512px-NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BS Premium	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS Nittere
+#EXTINF:1 tvg-id="" group-title="Japan" tvg-logo="", BS Nittere
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS Asahi
+#EXTINF:1 tvg-id="BSAsahi.jp" group-title="Japan" tvg-logo="https://i.imgur.com/cHdLCwB.png", BS Asahi
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS TBS	
+#EXTINF:1 tvg-id="BSTBS.jp" group-title="Japan" tvg-logo="https://i.imgur.com/g1pTQIm.png", BS TBS	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS TV Tokyo
+#EXTINF:1 tvg-id="BSTVTokyo.jp" group-title="Japan" tvg-logo="https://i.imgur.com/yJfA6ak.png", BS TV Tokyo
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS Fuji	
+#EXTINF:1 tvg-id="BSFuji.jp" group-title="Japan" tvg-logo="https://i.imgur.com/9w3X0VC.png", BS Fuji	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", WOWOW Prime	
+#EXTINF:1 tvg-id="WOWOWPrime.jp" group-title="Japan" tvg-logo="", WOWOW Prime	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", WOWOW Live	
+#EXTINF:1 tvg-id="WOWOWLive.jp" tvg-id="" group-title="Japan" tvg-logo="https://i.imgur.com/QPIULj6.png", WOWOW Live	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", WOWOW Cinema	
+#EXTINF:1 tvg-id="WOWOWCinema.jp" group-title="Japan" tvg-logo="https://i.imgur.com/Wx9fkCW.png", WOWOW Cinema	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Star Channel 1
+#EXTINF:1 tvg-id="StarChannel1.jp" group-title="Japan" tvg-logo="https://i.imgur.com/PSVgw99.png", Star Channel 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Star Channel 2
+#EXTINF:1 tvg-id="StarChannel2.jp" group-title="Japan" tvg-logo="https://i.imgur.com/QOriZy5.png", Star Channel 2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Star Channel 3
+#EXTINF:1 tvg-id="StarChannel3.jp" group-title="Japan" tvg-logo="https://i.imgur.com/Z1x8ecY.png", Star Channel 3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS Animax		
+#EXTINF:1 tvg-id="" group-title="Japan" tvg-logo="", BS Animax		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS Sky PerfecTV!			
+#EXTINF:1 tvg-id="BSSkyPerfecTV.jp" group-title="Japan" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_sky_perfect_241.png", BS Sky PerfecTV!			
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", J Sports 1		
+#EXTINF:1 tvg-id="JSports1.jp" group-title="Japan" tvg-logo="https://i.imgur.com/vEpjLnj.png", J Sports 1		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", J Sports 2		
+#EXTINF:1 tvg-id="JSports2.jp" group-title="Japan" tvg-logo="https://i.imgur.com/g1GLVH2.png", J Sports 2		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", J Sports 3		
+#EXTINF:1 tvg-id="JSports3.jp" group-title="Japan" tvg-logo="https://i.imgur.com/xdI361E.png", J Sports 3		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", J Sports 4		
+#EXTINF:1 tvg-id="JSports4.jp" group-title="Japan" tvg-logo="https://i.imgur.com/fBcyZNL.png", J Sports 4		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", BS Tsuri Vision		
+#EXTINF:1 tvg-id="" group-title="Japan" tvg-logo="", BS Tsuri Vision		
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan", Nippon Eiga Senmon Channel
+#EXTINF:1 tvg-id="NihonEigaSenmonChannel.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png", Nippon Eiga Senmon Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Toei Channel
+#EXTINF:1 tvg-id="ToeiChannel.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-580-400x400.png", Toei Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Channel Neco
+#EXTINF:1 tvg-id="ChannelNeco.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-556-400x400.png", Channel Neco
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Movie Plus
+#EXTINF:1 tvg-id="MoviePlus.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png", Movie Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Sky A
+#EXTINF:1 tvg-id="SkyA.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png", Sky A
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Gaora Sports
+#EXTINF:1 tvg-id="GaoraSports.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png", Gaora Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Nittere G+
+#EXTINF:1 tvg-id="NitteleGPlus.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png", Nittere G+
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Golf Network
+#EXTINF:1 tvg-id="GolfNetwork.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png", Golf Network
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Jidaigeki Senmon Channel
+#EXTINF:1 tvg-id="JidaigekiSenmonChannel.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png", Jidaigeki Senmon Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Family Gekijo
+#EXTINF:1 tvg-id="FamilyGekijyo.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-551-400x400.png", Family Gekijo
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Channel Ginga
+#EXTINF:1 tvg-id="ChannelGinga.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png", Channel Ginga
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan", Super! Drama TV
+#EXTINF:1 tvg-id="SuperDramaTV.jp" group-title="Japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-124-400x400.png", Super! Drama TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Fox Japan
+#EXTINF:1 tvg-id="FoxJapan.jp" group-title="Japan" tvg-logo="https://i.imgur.com/IPk15SK.png", Fox Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Lala TV
+#EXTINF:1 tvg-id="LaLaTV.jp" group-title="Japan" tvg-logo="https://i.imgur.com/APBty36.png", Lala TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Music On! TV
+#EXTINF:1 tvg-id="MusicOnTV.jp" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Music_On%21_TV.jpg", Music On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Kids Station
+#EXTINF:1 tvg-id="KidsStation.jp" group-title="Japan" tvg-logo="https://i.imgur.com/mEERmXh.png", Kids Station
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="", Nittere News 24	
+#EXTINF:1 tvg-id="" group-title="Japan" tvg-logo="", Nittere News 24	
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:1 group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/512px-AT-X_logo.svg.png", AT-X
+#EXTINF:1 tvg-id="" group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/512px-AT-X_logo.svg.png", AT-X
 https://sub2.neetball.net/live/neet.m3u8
-
