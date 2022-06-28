@@ -806,6 +806,12 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", group-title="SPORTS", FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 4
+https://list.iptvcat.com/my_list/s/f3f15ca8bc97674b0454a01ae9d55745.m3u8
+
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 4 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/296454?checkedby:iptvcat.com
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
 #EXTINF:-1 tvg-id="Eurosport" group-title="SPORTS" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD
@@ -921,21 +927,6 @@ https://bit.ly/3O4uBZV
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Useeprime.png" group-title="SPORTS",UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 2" tvg-logo="" group-title="SPORTS",BR: PREMIER 2
-http://tvbross.com:8090/DG3ukFij0z/1h9KEREA0T/17963
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIER 1" tvg-logo="" group-title="SPORTS",BR: PREMIER 1
-http://tvbross.com:8090/DG3ukFij0z/1h9KEREA0T/17962
-
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/296455?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 4
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGaInzgzxdfqKtZ7mHDW8tU/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 4 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/296454?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 5
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMkdFqWKvchcp_2ZENl_gss/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="SPORTS",FOX SPORTS 6
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFxrrAAyHsNl32LQDcmHrD8/ts?checkedby:iptvcat.com
 
 ~~~~~~~~HBO
 
