@@ -862,7 +862,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-ID="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://4flims.com/upload/source/dubaisports1نسخ.png" group-title="SPORTS",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="FIGHTBOX" group-title="SPORTS tvg-logo="https://i.imgur.com/1pYH86k.png", FIGHTBOX
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHTBOX" tvg-logo="https://i.imgur.com/1pYH86k.png" group-title="SPORTS, FIGHTBOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7NeBmWX.jpg", Red Bull TV
