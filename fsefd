@@ -410,8 +410,6 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-id="800" tvg-logo="http://linear-poster.astro.com.my/prod/logo/eGG_v1.png" group-title="Kids",eGG Network
 http://rr.dens.tv/h/h22/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Mykidz.MACAN" group-title="Kids" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", My Kidz HD
 http://rr.dens.tv/h/h191/index.m3u8
 
