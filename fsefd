@@ -38,7 +38,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Nasional",RCTI-HD
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GLOBAL TV =>1" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="Nasional",GLOBAL
+#EXTINF:-1 tvg-id="GTV.id" group-title="Nasional" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png",GTV-HD,GLOBAL
 http://mvtv.tech:33210/Haura/12345/5234
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
