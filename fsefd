@@ -86,7 +86,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/w6B2XiGyo1Q636TxrobW9aNSDMc=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/909920/rtv-2fb2dc.jpg" group-title="Nasional",rtv
+#EXTINF:0 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://thumbor.prod.vidiocdn.com/w6B2XiGyo1Q636TxrobW9aNSDMc=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/909920/rtv-2fb2dc.jpg" group-title="Nasional", RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="Nasional",GARUDA TV
