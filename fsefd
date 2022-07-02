@@ -676,50 +676,38 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 group-title="YACINE TV"
 https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
 
+#EXTINF:-1 group-title="YACINE TV", Bein Sports
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/280725
+
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 1
-http://gplus.live:8080/168573780756/N9UFR0P64W/58839
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/109
 
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 1 Back Up
-http://gplus.live:8080/168573780756/N9UFR0P64W/103068
-
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 2 (COID)
-http://gplus.live:8080/168573780756/N9UFR0P64W/58840
-
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 2 Back Up (COID)
-http://gplus.live:8080/168573780756/N9UFR0P64W/103069
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/280145
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 3
-http://gplus.live:8080/168573780756/N9UFR0P64W/58841
-
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports Premium 3 Back Up
-http://gplus.live:8080/168573780756/N9UFR0P64W/103070
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/280249
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 1
-http://gplus.live:8080/168573780756/N9UFR0P64W/58829
-
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 1
-http://gplus.live:8080/168573780756/N9UFR0P64W/103062
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/100
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 2
-http://gplus.live:8080/168573780756/N9UFR0P64W/58832
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/101
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 3
-http://gplus.live:8080/168573780756/N9UFR0P64W/58834
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/102
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 4
-http://gplus.live:8080/168573780756/N9UFR0P64W/58835
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/103
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 5
-http://gplus.live:8080/168573780756/N9UFR0P64W/58836
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/104
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 6
-http://gplus.live:8080/168573780756/N9UFR0P64W/58837
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/105
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 7
-http://gplus.live:8080/168573780756/N9UFR0P64W/58838
-
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports 7
-http://gplus.live:8080/168573780756/N9UFR0P64W/103067
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/107
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports FR 1
 http://gplus.live:8080/168573780756/N9UFR0P64W/103126
@@ -731,19 +719,19 @@ http://gplus.live:8080/168573780756/N9UFR0P64W/103127
 http://gplus.live:8080/168573780756/N9UFR0P64W/103128
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports ENG 1
-http://gplus.live:8080/168573780756/N9UFR0P64W/103123
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/110
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports ENG 2
-http://gplus.live:8080/168573780756/N9UFR0P64W/103124
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/111
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports ENG 3
-http://gplus.live:8080/168573780756/N9UFR0P64W/103125
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/267769
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports EXTRA 1
-http://gplus.live:8080/168573780756/N9UFR0P64W/103102
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/290037
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports EXTRA 2
-http://gplus.live:8080/168573780756/N9UFR0P64W/103103
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/283294
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports AFC
 http://gplus.live:8080/168573780756/N9UFR0P64W/171694
@@ -755,7 +743,7 @@ http://gplus.live:8080/168573780756/N9UFR0P64W/171695
 http://gplus.live:8080/168573780756/N9UFR0P64W/171696
 
 #EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="YACINE TV",Bein Sports NBA
-http://gplus.live:8080/168573780756/N9UFR0P64W/59382
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15962
 
 
 ~~~~~~~SPORT
